@@ -1,7 +1,7 @@
 # About me
 
 - 🔭 I’m currently working on home
-- 🌱 I’m currently learning microservices, mobile, fullstack application
+- 🌱 I’m currently learning microservices, dapr, mobile, fullstack applications
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
